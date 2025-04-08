@@ -1,4 +1,4 @@
-Will the next commit bring you VERY close to the answer (GULP, Sweating PROFUSELY)
+You MIGHT wanna try copying and pasting all of this code below into the HTML section here (Wink): https://codepen.io/pen
 
 <!DOCTYPE html>
 <html lang="en">
