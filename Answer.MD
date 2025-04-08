@@ -1,5 +1,3 @@
-Oh no, why is the answer just sitting here (GULP) . . .
+The Answer for this CTF can be found here:
 
-Please do not try submitting "I am not very bright, now am I"
-
-I know you wont try this (HAHAHAH)
+https://youtu.be/xvFZjo5PgG0?si=IKuHDyQNZ8GG9N30
